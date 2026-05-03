@@ -1,6 +1,4 @@
-Here’s a clean, structured **README.md** for your second project:
 
----
 
 # 🔐 Phishing Website Detection using Machine Learning
 
